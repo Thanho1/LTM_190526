@@ -1,0 +1,4 @@
+admin admin
+guest nopass
+alice 12345
+bob password
